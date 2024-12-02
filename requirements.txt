@@ -1,0 +1,11 @@
+streamlit
+fastapi
+uvicorn
+requests
+uuid
+pydantic
+langchain
+langchain-community
+langchain-openai
+boto3
+PyPDF2
